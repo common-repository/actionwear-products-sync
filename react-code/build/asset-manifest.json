@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/actionwear-products-sync/react-code/build/static/css/main.c5b3c0b7.css",
+    "main.js": "/wp-content/plugins/actionwear-products-sync/react-code/build/static/js/main.9fd50587.js",
+    "index.html": "/wp-content/plugins/actionwear-products-sync/react-code/build/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c5b3c0b7.css",
+    "static/js/main.9fd50587.js"
+  ]
+}

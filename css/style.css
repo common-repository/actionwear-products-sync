@@ -1,0 +1,141 @@
+.actionwear-frontend .visible {
+	visibility: visible;
+}
+.actionwear-frontend .my-1 {
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+}
+.actionwear-frontend .my-4 {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+.actionwear-frontend .mb-1 {
+	margin-bottom: 0.25rem;
+}
+.actionwear-frontend .mb-2 {
+	margin-bottom: 0.5rem;
+}
+.actionwear-frontend .ml-auto {
+	margin-left: auto;
+}
+.actionwear-frontend .block {
+	display: block;
+}
+.actionwear-frontend .flex {
+	display: flex;
+}
+.actionwear-frontend .hidden {
+	display: none;
+}
+.actionwear-frontend .h-6 {
+	height: 1.5rem;
+}
+.actionwear-frontend .w-1\/2 {
+	width: 50%;
+}
+.actionwear-frontend .w-6 {
+	width: 1.5rem;
+}
+.actionwear-frontend .transform {
+	transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+		rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+		scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.actionwear-frontend .cursor-pointer {
+	cursor: pointer;
+}
+.actionwear-frontend .grid-cols-2 {
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.actionwear-frontend .flex-col {
+	flex-direction: column;
+}
+.actionwear-frontend .justify-between {
+	justify-content: space-between;
+}
+.actionwear-frontend .gap-2 {
+	gap: 0.5rem;
+}
+.actionwear-frontend .gap-4 {
+	gap: 1rem;
+}
+.actionwear-frontend .border {
+	border-width: 1px;
+	border-radius: 8px;
+}
+.actionwear-frontend .border-solid {
+	border-style: solid;
+}
+.actionwear-frontend .border-gray-200 {
+	--tw-border-opacity: 1;
+	border-color: rgb(229 231 235 / var(--tw-border-opacity));
+}
+.actionwear-frontend .p-2 {
+	padding: 0.5rem;
+}
+.actionwear-frontend .p-4 {
+	padding: 1rem;
+}
+.actionwear-frontend .px-4 {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+.actionwear-frontend .py-2 {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+.actionwear-frontend .text-sm {
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+}
+.actionwear-frontend .text-xs {
+	font-size: 0.75rem;
+	line-height: 1rem;
+}
+.actionwear-frontend .font-bold {
+	font-weight: 700;
+}
+.actionwear-frontend .font-normal {
+	font-weight: 400;
+}
+.actionwear-frontend .text-green-400 {
+	--tw-text-opacity: 1;
+	color: rgb(74 222 128 / var(--tw-text-opacity));
+}
+.actionwear-frontend .text-green-700 {
+	--tw-text-opacity: 1;
+	color: rgb(21 128 61 / var(--tw-text-opacity));
+}
+.actionwear-frontend .text-green-600 {
+	--tw-text-opacity: 1;
+	color: rgb(22 163 74 / var(--tw-text-opacity));
+}
+.actionwear-frontend .transition {
+	transition-property: color, background-color, border-color, outline-color,
+		text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,
+		-webkit-backdrop-filter;
+	transition-property: color, background-color, border-color, outline-color,
+		text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,
+		backdrop-filter;
+	transition-property: color, background-color, border-color, outline-color,
+		text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,
+		backdrop-filter, -webkit-backdrop-filter;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 0.15s;
+}
+.actionwear-frontend .transition-all {
+	transition-property: all;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-duration: 0.15s;
+}
+.actionwear-frontend .duration-300 {
+	transition-duration: 0.3s;
+}
+@media (min-width: 768px) {
+	.actionwear-frontend .md\:grid {
+		display: grid;
+	}
+	.actionwear-frontend .md\:p-4 {
+		padding: 1rem;
+	}
+}
